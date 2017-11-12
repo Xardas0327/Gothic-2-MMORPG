@@ -1,0 +1,1 @@
+UPDATE `items` SET `value`=10 WHERE `name`='ITRW_DRAGOMIRSARMBRUST_MIS';
