@@ -19,6 +19,6 @@ These scripts contain:
 	World Item
 	Anticheat
 	
-The Piranha bytes own licence of game.
+The Piranha bytes own licence of the game.
 
 Now it is just a reference work.
