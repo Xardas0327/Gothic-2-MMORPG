@@ -1,13 +1,10 @@
-This project is built on an older version of a Gothic 2 mod, called Gothic Multiplayer (webpage: http://gothic-multiplayer.com).
-I only wrote the Lua and SQL files.
+It is built on an older version of a Gothic 2 mod, called Gothic Multiplayer (webpage: http://gothic-multiplayer.com).
+I didn't write the mod, I just used it. I only wrote the Lua and SQL files.
 This was my thesis at university, but I continued the development for a while.
-You can create a MMO RPG with your own NPC, quest and story (this contain examples).
 
-This project was stopped, because I found some bugs, which I can't fix. Sometimes, when someone die (not matter it is player or NPC) the server shutdown. 
-It is possible, that my scripts is not wrong, because the server hasn't error message about it (or uninterpretable). But it is more comman, 
-if you have bigger ping.
+Unfortunatelly, I had to stop this project, because I found some bugs in the mods, which I can't fix. Sometimes, when someone die (not matter it is player or NPC) the server shutdown. I am sure, that my code is right, because the server doesn't have any error messege and it can only happen, if someone has a bigger ping in the game. On localhost it never happened. That was one of the reason, that the mod creaters have started to rewrite it from the begining.
 
-These scripts contain:
+I have implemented:
 	Account management
 	Character management (character creater, level up, learn)
 	Time (real and game)
@@ -19,6 +16,5 @@ These scripts contain:
 	World Item
 	Anticheat
 	
-The Piranha bytes own licence of the game.
-
-Now it is just a reference work.
+Currently THQ holds licence of the game.
+This is just a reference work on github.
